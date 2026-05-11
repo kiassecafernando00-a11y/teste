@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Database
+automacao.db
+*.sqlite3
+
+# Security / Credentials
+config.json
+client_secret.json
+token.pickle
+tokens/
+credentials/
+.env
+
+# Project specific
+uploads/
+temp/
+temp_files/
+musicas_pendentes/
+relatorio_final.txt
+scheduled_jobs.json
+scratch/
+
+# IDE
+.vscode/
+.idea/
